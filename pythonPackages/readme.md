@@ -23,6 +23,8 @@ To create this package,
     + __init__.py
     + player.py
     + boss.py
+  
+![Folder Structure](../images/python2-5.4.2.png)
 
 Folder structure in Python packages.
 
