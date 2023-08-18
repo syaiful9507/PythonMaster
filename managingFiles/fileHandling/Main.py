@@ -1,0 +1,6 @@
+f = open('message.txt')
+content = f.read(5)
+print(content)
+content = f.read(13)
+print(content)
+f.close()
